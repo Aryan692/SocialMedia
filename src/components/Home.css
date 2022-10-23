@@ -1,0 +1,6 @@
+.main-div{
+    position:relative;
+    display: grid;
+    grid-template-columns: 20rem auto 22rem;
+    gap:1rem;
+}
